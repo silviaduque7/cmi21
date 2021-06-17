@@ -1,4 +1,3 @@
-![imagen 8](https://user-images.githubusercontent.com/86070856/122455015-3d9dac00-cfac-11eb-8cb9-869d7bb54ba6.jpeg)
 
 
 # 1 Datos 
@@ -15,6 +14,7 @@
 
 **Estilo/género:** juego, educativo
 **Logotipo** : 
+![imagen 8](https://user-images.githubusercontent.com/86070856/122455015-3d9dac00-cfac-11eb-8cb9-869d7bb54ba6.jpeg)
 
 ![imagen1](https://user-images.githubusercontent.com/86070856/122447856-75a0f100-cfa4-11eb-922e-ee7c7a6bbf4e.jpeg)
 ![imagen2](https://user-images.githubusercontent.com/86070856/122447873-7a65a500-cfa4-11eb-9f33-3d7a13f9db47.jpeg)
@@ -129,9 +129,9 @@ En cuanto al proyecto creo que ha sido original, y que casi todo lo que aparece 
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
-https://creativecommons.org/licenses/?lang=es
+
+.gitattributes
 
 
 Junio 2021
