@@ -39,7 +39,8 @@
 - Github
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![02_maya_02](https://user-images.githubusercontent.com/86070856/122455493-bdc41180-cfac-11eb-8db8-596e5e8a9538.png)
+
 
 # 2. Memoria del proyecto 
 
