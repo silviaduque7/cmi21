@@ -131,7 +131,7 @@ En cuanto al proyecto creo que ha sido original, y que casi todo lo que aparece 
 
 
 
-.gitattributes
+https://github.com/silviaduque7/cmi21/blob/master/LICENSE 
 
 
 Junio 2021
