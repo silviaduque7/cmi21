@@ -35,14 +35,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 17/05/2020
+**Fecha** : 17/06/2021
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -52,13 +50,7 @@ En mi proyecto aparecen diversas preguntas sobre las abejas, en él redacto preg
 
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
+![02_maya_02](https://user-images.githubusercontent.com/86070856/122453887-0084ea00-cfab-11eb-83a0-919ef3933a13.png)
 
 
 
