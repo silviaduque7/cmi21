@@ -4,13 +4,13 @@
 
 
 
-**Titulo** : MI Proyecto(Apicultura aprende de las abejas)
+**Titulo** : Mi Proyecto(Apicultura aprende de las abejas)
 
 **Web:**   (silviaduque7.github.io)
 
 **Autor:**  (Silvia Duque López)
 
-**Resumen** : Este pRoyecto trata sobre las abejas, en el cual hacemos preguntas sobre ellas, como el ejemplo de cuanto tiempo viven, cuantos tipos de abejas hay...etc
+**Resumen** : Este proyecto trata sobre las abejas, en el cual hacemos preguntas sobre ellas, como el ejemplo de cuanto tiempo viven, cuantos tipos de abejas hay...etc
 
 **Estilo/género:** juego, educativo
 **Logotipo** : 
